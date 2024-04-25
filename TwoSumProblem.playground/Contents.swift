@@ -20,5 +20,5 @@ func twoSum(from input: [Int], target: Int) -> [Int] {
         }
         resultDictionary[num] = index
     }
-    return [0, 0 ]
+    return [0, 0]
 }

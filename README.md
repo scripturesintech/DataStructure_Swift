@@ -1,4 +1,4 @@
-# DataStructure_Swift
+# DataStructure playlist Swift
 	1.	Find Prime Numbers from given array of Int
 	2.	Find Duplicates from array
 	3.	Find Smalllest Number
